@@ -1,0 +1,13 @@
+{
+  "product_id": 2390109,
+  "date": "2014-11-01",
+  "product_name": "Corn",
+  "manufacturing-site":"Minnesota",
+  "durability": "Inessa",
+  "carbon-emission": 0,
+  "plastic-level":"25%",
+  "recyclable-by-products" : "corn-leaves",
+  "recycle-days":2,
+  "cities":["Alaska","Wyoming","Arkansas"],
+  "generic-suggestion":"Recyclable cotton used. No Nylon or silk stuffings. Available in major loctations"
+}
